@@ -16,8 +16,7 @@ Official implementation for paper Tree of Thoughts: Deliberate Problem Solving w
 
 
 # Projects in the Tree of Thoughts Ecosystem
-
-Official Implementation of "Tree of Thoughts: Deliberate Problem Solving with Large Language Models".
+Projects that use Tree of Thoughts to increase reasoning!
 
 ## The Compiler
 A novel child project under the Tree of Thoughts (ToT) paradigm. This project is crafted with the intent of making autonomous programming not just a reality, but an effortless task for you.
