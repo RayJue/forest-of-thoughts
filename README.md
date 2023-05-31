@@ -31,3 +31,9 @@ In essence, The Compiler allows you to "grow" any program you can dream of. By p
 Meta TOT (Meta Tree of Thoughts) aims to enhance the Tree of Thoughts (TOT) language algorithm by using a secondary agent to critique and improve the primary agent's prompts. This innovative approach allows the primary agent to generate more accurate and relevant responses based on the feedback from the secondary agent.
 
 (GITHUB REPOSITORY)[https://github.com/kyegomez/Meta-Tree-Of-Thoughts]
+
+
+# Join Agora, Creators United
+This implementation of Tree of Thoughts is brought to you by Agora, Agora advances Humanity with open source SOTA Multi-Modality AI research!
+
+[Join our Discord and contribute to this project](https://discord.gg/qUtxnK2NMf)
