@@ -1,5 +1,8 @@
 # Forest of Thoughts Ecosystem 🌳🌲🌴🌿🍃
 
+![Forest of thoughts banner](forest-of-thoughts.png)
+
+
 ## Tree of Thoughts Easy Plug In and Play
 My implementation of Tree of Thoughts (ToT) an all-new powerful and flexible algorithm that advances model reasoning by a whopping 70%. This is a plug-and-play version; connect your own models and enjoy superintelligent reasoning!
 
